@@ -1,4 +1,4 @@
-# 🔍 Loan Default Prediction using Machine Learning
+# 🔍 Loan Default Prediction In Microfinance using Machine Learning
 
 # 📌 Introduction
 Loan default is a major risk in the financial industry. This project aims to build a machine learning model that predicts whether a loan applicant is likely to default, based on historical loan data. The goal is to help financial institutions make informed credit decisions.
